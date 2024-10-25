@@ -1,0 +1,14 @@
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\bin\Debug\net8.0\ToyCarCommands.exe
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\bin\Debug\net8.0\ToyCarCommands.deps.json
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\bin\Debug\net8.0\ToyCarCommands.runtimeconfig.json
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\bin\Debug\net8.0\ToyCarCommands.dll
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\bin\Debug\net8.0\ToyCarCommands.pdb
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\obj\Debug\net8.0\ToyCarCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\obj\Debug\net8.0\ToyCarCommands.AssemblyInfoInputs.cache
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\obj\Debug\net8.0\ToyCarCommands.AssemblyInfo.cs
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\obj\Debug\net8.0\ToyCarCommands.csproj.CoreCompileInputs.cache
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\obj\Debug\net8.0\ToyCarCommands.dll
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\obj\Debug\net8.0\refint\ToyCarCommands.dll
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\obj\Debug\net8.0\ToyCarCommands.pdb
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\obj\Debug\net8.0\ToyCarCommands.genruntimeconfig.cache
+C:\Users\shahs\source\repos\ToyCarCommands\ToyCarCommands\obj\Debug\net8.0\ref\ToyCarCommands.dll
